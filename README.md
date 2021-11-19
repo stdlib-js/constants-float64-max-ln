@@ -20,7 +20,7 @@ limitations under the License.
 
 # Maximum Natural Logarithm
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > [Natural logarithm][natural-logarithm] of the maximum [double-precision floating-point number][ieee754].
 
@@ -82,7 +82,7 @@ console.log( FLOAT64_MAX_LN );
 
 ## See Also
 
--   [`@stdlib/constants/float64/min-ln`][@stdlib/constants/float64/min-ln]: natural logarithm of the smallest normalized double-precision floating-point number.
+-   <span class="package-name">[`@stdlib/constants/float64/min-ln`][@stdlib/constants/float64/min-ln]</span><span class="delimiter">: </span><span class="description">natural logarithm of the smallest normalized double-precision floating-point number.</span>
 
 </section>
 
@@ -133,8 +133,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/constants-float64-max-ln/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/constants-float64-max-ln?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/constants-float64-max-ln.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/constants-float64-max-ln/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
