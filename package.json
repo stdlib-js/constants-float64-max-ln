@@ -1,0 +1,43 @@
+{
+  "name": "@stdlib/constants-float64-max-ln",
+  "version": "0.0.0",
+  "description": "Natural logarithm of the maximum double-precision floating-point number.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/constants-float64-max-ln.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "constant",
+    "const",
+    "mathematics",
+    "math",
+    "max",
+    "maximum",
+    "floating-point",
+    "float64",
+    "float",
+    "64bit",
+    "ieee754",
+    "double",
+    "dbl",
+    "precision",
+    "largest",
+    "greatest",
+    "natural",
+    "logarithm",
+    "log",
+    "ln"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
