@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT64_MAX_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-ln@deno/mod.js';
+import FLOAT64_MAX_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-ln@v0.0.8-deno/mod.js';
 ```
 
 #### FLOAT64_MAX_LN
@@ -56,7 +56,7 @@ var bool = ( FLOAT64_MAX_LN === 709.782712893384 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT64_MAX_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-ln@deno/mod.js';
+import FLOAT64_MAX_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-ln@v0.0.8-deno/mod.js';
 
 console.log( FLOAT64_MAX_LN );
 // => 709.782712893384
